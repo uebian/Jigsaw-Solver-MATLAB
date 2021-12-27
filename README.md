@@ -13,4 +13,4 @@ The restored image
 
 ## Usage
 
-Put the tails of the same size into the directory images. Then run the preprocess.m and assemble.m in the same MATLAB session. The result named result.png will be in the same directory.
+Put the tails of the same size into the directory `images`. Then run the preprocess.m and assemble.m in the same MATLAB session. The result named result.png will be in the same directory.
