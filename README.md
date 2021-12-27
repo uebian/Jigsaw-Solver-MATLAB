@@ -9,7 +9,7 @@ A jigsaw puzzle with 1824 pieces
 
 The restored image
 
-![Restored image](/sample/restored.jpg)
+![Restored image](/sample/restored.png)
 
 ## Usage
 
